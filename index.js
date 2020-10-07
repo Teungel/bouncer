@@ -1,7 +1,7 @@
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'NzMzNzkyNjgxOTIyMjY1MTI4.XxITsA.hJL4fzHumj1khapQXMAqejqOiIU'
+const token = ' [your token]   '
 const prefix = 'L ';
 const fs = require('fs');
 var queue = new Map();
